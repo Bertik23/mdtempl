@@ -37,7 +37,8 @@ Put a relative path to the file you want to include in `{/ <path> /}`. And run r
 ### Output
 run `mdtempl test_md/test_levels/test.md`
 
-Output: ```md
+Output:
+```md
 # Head1
 
 # Include
